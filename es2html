@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse; /* default: separate */
+}
+</style>
+</head>
+  <body>
+     <table>
+       <tr>
+         <td colspan="2">><Popolazione Italia </td> 
+         <!-- <td></td>-->
+         <th colspan="2">Superficie (Km quadrati) </td> 
+         <!-- <td></td>-->
+       </t>
+       <tr> 
+         <td></td> 
+         <td></td> 
+         <td></td> 
+         <td></td> 
+       </t>
+       <tr>
+         <td></td> 
+         <td></td> 
+         <td></td> 
+         <td></td> 
+       </t>
+       <tr>
+         <td></td> 
+         <td></td> 
+         <td></td> 
+         <td></td>
